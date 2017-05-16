@@ -1,0 +1,10 @@
+C:\Users\lulei_000\Desktop\iDileu\bin\Debug\iDileu.exe.config
+C:\Users\lulei_000\Desktop\iDileu\bin\Debug\iDileu.exe
+C:\Users\lulei_000\Desktop\iDileu\bin\Debug\iDileu.pdb
+C:\Users\lulei_000\Desktop\iDileu\obj\Debug\iDileu.csprojResolveAssemblyReference.cache
+C:\Users\lulei_000\Desktop\iDileu\obj\Debug\iDileu.Form1.resources
+C:\Users\lulei_000\Desktop\iDileu\obj\Debug\iDileu.Properties.Resources.resources
+C:\Users\lulei_000\Desktop\iDileu\obj\Debug\iDileu.csproj.GenerateResource.Cache
+C:\Users\lulei_000\Desktop\iDileu\obj\Debug\iDileu.exe
+C:\Users\lulei_000\Desktop\iDileu\obj\Debug\iDileu.pdb
+C:\Users\lulei_000\Desktop\iDileu\bin\Debug\DotNumerics.dll
